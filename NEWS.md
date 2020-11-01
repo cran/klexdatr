@@ -1,3 +1,7 @@
+# klexdatr 0.1.1
+
+- Internal changes only.
+
 # klexdatr 0.1.0
 
 - Converted data sets to tibbles with simple features.

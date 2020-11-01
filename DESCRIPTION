@@ -1,6 +1,6 @@
 Package: klexdatr
 Title: Kootenay Lake Exploitation Study Data
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Joe", "Thorley", , "joe@poissonconsulting.ca", c("aut", "cre", "dtc"), comment = c(ORCID = "0000-0002-7683-4592")),
     person("Greg", "Andrusak", role = c("aut", "dtc")),
@@ -35,10 +35,10 @@ Suggests: chk, covr, testthat, tibble
 URL: https://github.com/poissonconsulting/klexdatr
 BugReports: https://github.com/poissonconsulting/klexdatr/issues
 LazyData: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2020-04-29 15:39:54 UTC; joe
+Packaged: 2020-11-01 18:23:20 UTC; joe
 Author: Joe Thorley [aut, cre, dtc] (<https://orcid.org/0000-0002-7683-4592>),
   Greg Andrusak [aut, dtc],
   Gary Pavan [aut, dtc],
@@ -60,4 +60,4 @@ Author: Joe Thorley [aut, cre, dtc] (<https://orcid.org/0000-0002-7683-4592>),
   Kootenai Tribe of Idaho [cph]
 Maintainer: Joe Thorley <joe@poissonconsulting.ca>
 Repository: CRAN
-Date/Publication: 2020-05-04 14:40:12 UTC
+Date/Publication: 2020-11-01 18:30:02 UTC

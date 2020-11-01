@@ -66,7 +66,11 @@ recapture
 
 ## Installation
 
-<!-- To install the latest release from [CRAN](https://cran.r-project.org) -->
+To install the latest release from [CRAN](https://cran.r-project.org)
+
+``` r
+install.packages("klexdatr")
+```
 
 To install the developmental version from
 [GitHub](https://github.com/poissonconsulting/klexdatr)
@@ -86,7 +90,7 @@ external tags and subsequently detected by an acoustic receiver array as
 well as reported by anglers.
 
 The data are analysed by [Thorley and Andrusak
-(1994)](https://peerj.com/articles/2874/) to estimate the natural and
+(2017)](https://peerj.com/articles/2874/) to estimate the natural and
 fishing mortality of both species.
 
 There is also a [shiny
@@ -96,10 +100,10 @@ fish movement data.
 ## Contribution
 
 Please report any
-[issues](https://github.com/poissonconsulting/pkgtemplate/issues).
+[issues](https://github.com/poissonconsulting/klexdatr/issues).
 
-[Pull requests](https://github.com/poissonconsulting/pkgtemplate/pulls)
-are always welcome.
+[Pull requests](https://github.com/poissonconsulting/klexdatr/pulls) are
+always welcome.
 
 ## Code of Conduct
 
@@ -135,4 +139,4 @@ in conjunction with the Bonneville Power Administration (BPA) through
 the Northwest Power and Conservation Council’s Fish and Wildlife
 Program, in co-operation with the Idaho Department of Fish and Game
 (IDFG), and the Kootenai Tribe of Idaho (KTOI). The Freshwater Fish
-Society of British Columbia (FFSBC) provided tag rewards.
+Society of British Columbia (FFSBC) provided tag rewards
