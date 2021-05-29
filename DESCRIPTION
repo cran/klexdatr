@@ -1,6 +1,6 @@
 Package: klexdatr
 Title: Kootenay Lake Exploitation Study Data
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Joe", "Thorley", , "joe@poissonconsulting.ca", c("aut", "cre", "dtc"), comment = c(ORCID = "0000-0002-7683-4592")),
     person("Greg", "Andrusak", role = c("aut", "dtc")),
@@ -30,7 +30,8 @@ Description: Six relational 'tibbles' from the Kootenay Lake Large Trout Exploit
   The data are analysed by Thorley and Andrusak (1994) <doi:10.7717/peerj.2874>
   to estimate the natural and fishing mortality of both species.
 License: CC BY 4.0
-Depends: R (>= 3.3)
+Depends: R (>= 3.4)
+Imports: sf
 Suggests: chk, covr, testthat, tibble
 URL: https://github.com/poissonconsulting/klexdatr
 BugReports: https://github.com/poissonconsulting/klexdatr/issues
@@ -38,7 +39,7 @@ LazyData: true
 RoxygenNote: 7.1.1
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2020-11-01 18:23:20 UTC; joe
+Packaged: 2021-05-29 20:46:23 UTC; joe
 Author: Joe Thorley [aut, cre, dtc] (<https://orcid.org/0000-0002-7683-4592>),
   Greg Andrusak [aut, dtc],
   Gary Pavan [aut, dtc],
@@ -60,4 +61,4 @@ Author: Joe Thorley [aut, cre, dtc] (<https://orcid.org/0000-0002-7683-4592>),
   Kootenai Tribe of Idaho [cph]
 Maintainer: Joe Thorley <joe@poissonconsulting.ca>
 Repository: CRAN
-Date/Publication: 2020-11-01 18:30:02 UTC
+Date/Publication: 2021-05-29 21:00:02 UTC
